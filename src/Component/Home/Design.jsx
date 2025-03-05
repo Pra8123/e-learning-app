@@ -18,17 +18,17 @@ export function Design(props) {
 
   return (
     <div className="container-m">
-    
-     
+
+
       <div className="left-side">
         <div className="box">
           <img src={leftContent.image} width="550px" height="400px" alt="do" />
         </div>
       </div>
 
-     
+
       <div className="right-side">
-        
+
         <div
           className="right-box"
           onClick={() =>
